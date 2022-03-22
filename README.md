@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋,
+
+My name is Gomina Maryam and am a software developer.
 
 <!--
 **AnimogM/AnimogM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,5 +16,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=animogm)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=animogm&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=animogm&line_height=30&show_icons=true&hide=stars&theme=merko)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=animogm&langs_count=10&layout=compact)
