@@ -17,4 +17,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=animogm&line_height=30&show_icons=true&hide=stars&theme=merko)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=animogm&langs_count=10&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=animogm&langs_count=10&layout=compact&theme=merko)
+
