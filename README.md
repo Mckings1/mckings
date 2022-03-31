@@ -1,4 +1,4 @@
-<img src="https://github.com/animogm/animogm/blob/main/pexels-negative-space-169573.jpg" height="300px" style="object-fit: cover;" width="100%" />
+<!-- <img src="https://github.com/animogm/animogm/blob/main/pexels-negative-space-169573.jpg" height="300px" style="object-fit: cover;" width="100%" /> -->
 
 ### Hi there 👋,
 
