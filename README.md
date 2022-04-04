@@ -2,7 +2,7 @@
 
 ### Hi there 👋,
 
-My name is Gomina Maryam. Iam a software developer with passion for providing solutions to problems. Iam also passionate about learning new skills.
+My name is Gomina Maryam. I am a software developer with passion for providing solutions to problems and learning new skills.
 
 <div align="center">
    <a href="https://github.com/anuraghazra/github-readme-stats">
