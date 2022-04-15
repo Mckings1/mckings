@@ -6,7 +6,7 @@ My name is Gomina Maryam. I am a software developer with passion for providing s
 
 <div align="center">
    <a href="https://github.com/anuraghazra/github-readme-stats">
-     <img src="https://github-readme-stats.vercel.app/api?username=animogm&line_height=30&show_icons=true&theme=merko&layout=compact" align="center">
+     <img src="https://github-readme-stats.vercel.app/api?username=animogm&line_height=20&show_icons=true&theme=merko&layout=compact" align="center">
   </a>
   <a href="https://github.com/anuraghazra/convoychat">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=animogm&langs_count=10&layout=compact&theme=merko" align="center">
