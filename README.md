@@ -11,13 +11,12 @@
   🌱 &nbsp;I'm learning more about <a style="color:#45b8d8" href="https://reactjs.org/" target="_blank"><u>React</u></a> everyday... </br>
   🚧 &nbsp;I'm currently working on developing new projects to enhance my learning  ... </br>
   💬 &nbsp;Feel free to reach out to me for collaborations, volunteering or just for some interesting discussion. </br>
-  
-  <p> 
-   📫 &nbsp;You can reach me via
+  📫 &nbsp;You can reach me via
+ <span >
       <a href="https://twitter.com/GominaMaryam" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-     badge&logo=twitter&logoColor=white" /></a> 
       <a href="https://www.linkedin.com/in/gomina-maryam" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" /></a> 
-    <a href="mailto: gominamaryam@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/-mail-red?&style=flat-square&logo=gmail&logoColor=white" /></a>
-  </p>
+    <a href="mailto: gominamaryam@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/-email-brown?&style=flat-square&logo=gmail&logoColor=white" /></a>
+  </span>
 </p>
 <br>
 
