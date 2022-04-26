@@ -14,11 +14,11 @@
 
 </p>
 <br>
-
-<!-- <h2>👨🏻‍💻 &nbsp;Technologies</h2>
+<!-- 
+<h2>👨🏻‍💻 &nbsp;Technologies</h2>
 <p>
   <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-<!--   <img alt="SASS/SCSS" src="https://img.shields.io/badge/-SASS/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white" /> -->
+<img alt="SASS/SCSS" src="https://img.shields.io/badge/-SASS/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white" /> 
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
   <img alt="Netlify" src="https://img.shields.io/badge/-Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" />
@@ -32,13 +32,13 @@
   <img alt="Javascript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
  <img alt="Python" src=""/>
  <img alt="Next" sr
-</p> -->
-
+</p> 
+ -->
 <h2>Connect with me</h2>
 <span >
       <a href="https://twitter.com/GominaMaryam" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-     badge&logo=twitter&logoColor=white" /></a> 
       <a href="https://www.linkedin.com/in/gomina-maryam" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" /></a> 
-    <a href="mailto: gominamaryam@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/-email-brown?&style=flat-square&logo=gmail&logoColor=white" /></a>
+    <a href="mailto: gominamaryam@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/-gmail-brown?&style=flat-square&logo=gmail&logoColor=white" /></a>
   </span>
 
 
