@@ -1,26 +1,21 @@
- # <img src="https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/PersonalGithubReadme/HandGreet.gif" width="35px" />&nbsp;<b>Hi, I'm Maryam</b>
+ # <b>Hi, there</b> <img src="https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/PersonalGithubReadme/HandGreet.gif" width="35px" />&nbsp;
 
 <br>
 
-<!-- <img align="right" src="https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/PersonalGithubReadme/Memoji.png" width="200"/> -->
 <p aligh="left">
   
-  My name is Gomina Maryam, a Front End developer that loves buliding responsive and scalable web apps.
+  I'm Gomina Maryam, a Front End developer that loves buliding responsive and scalable web apps.
   	
   💡 &nbsp;I like to explore new trends and learn new technologies. </br>
   🌱 &nbsp;I'm learning more about <a style="color:#45b8d8" href="https://reactjs.org/" target="_blank"><u>React</u></a> everyday... </br>
   🚧 &nbsp;I'm currently working on developing new projects to enhance my learning  ... </br>
   💬 &nbsp;Feel free to reach out to me for collaborations, volunteering or just for some interesting discussion. </br>
-  📫 &nbsp;You can reach me via
- <span >
-      <a href="https://twitter.com/GominaMaryam" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-     badge&logo=twitter&logoColor=white" /></a> 
-      <a href="https://www.linkedin.com/in/gomina-maryam" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" /></a> 
-    <a href="mailto: gominamaryam@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/-email-brown?&style=flat-square&logo=gmail&logoColor=white" /></a>
-  </span>
+  📫 &nbsp;You can reach me via email at gominamaryam@gmail.com
+
 </p>
 <br>
 
-<h2>👨🏻‍💻 &nbsp;Things I code with</h2>
+<!-- <h2>👨🏻‍💻 &nbsp;Technologies</h2>
 <p>
   <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
 <!--   <img alt="SASS/SCSS" src="https://img.shields.io/badge/-SASS/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white" /> -->
@@ -35,8 +30,16 @@
   <img alt="React Router" src="https://img.shields.io/badge/-React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white" />
   <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-ffca28?style=flat-square&logo=firebase&logoColor=white" />
   <img alt="Javascript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-</p>
+ <img alt="Python" src=""/>
+ <img alt="Next" sr
+</p> -->
 
+<h2>Connect with me</h2>
+<span >
+      <a href="https://twitter.com/GominaMaryam" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-     badge&logo=twitter&logoColor=white" /></a> 
+      <a href="https://www.linkedin.com/in/gomina-maryam" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" /></a> 
+    <a href="mailto: gominamaryam@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/-email-brown?&style=flat-square&logo=gmail&logoColor=white" /></a>
+  </span>
 
 
 <h2>📈 &nbsp;Some Github Stats</h2>
