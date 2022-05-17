@@ -7,7 +7,7 @@
   I'm Gomina Maryam, a Front End developer that loves buliding responsive and scalable web apps.
   	
   💡 &nbsp;I like to explore new trends and learn new technologies. </br>
-  🌱 &nbsp;I'm learning more about <a style="color:#45b8d8" href="https://reactjs.org/" target="_blank"><u>React</u></a> everyday... </br>
+  🌱 &nbsp;I'm learning more about <a style="color:#45b8d8" href="https://reactjs.org/" target="_blank"><u>React</u></a></br>
   🚧 &nbsp;I'm currently working on developing new projects to enhance my learning  ... </br>
   💬 &nbsp;Feel free to reach out to me for collaborations, volunteering or just for some interesting discussion. </br>
   📫 &nbsp;You can reach me via email at gominamaryam@gmail.com
