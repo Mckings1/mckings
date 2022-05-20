@@ -53,7 +53,6 @@
    ![Maryam's Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=animogm&show_icons=true&hide_border=true&langs_count=10&layout=compact&theme=merko&locale=en)
 </span>
 
-
 <span align="left" >
 
 ![My GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=animogm&hide_border=true&langs_count=10&layout=compact&theme=merko)
