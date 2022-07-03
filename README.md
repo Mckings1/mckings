@@ -3,7 +3,7 @@
 
 <p aligh="left">
   
-  I'm Gomina Maryam, a Front End developer that loves buliding responsive and scalable web apps.
+  I'm Maryam, a Front End developer that loves buliding responsive and scalable web apps.
   	
   💡 &nbsp;I like to explore new trends and learn new technologies. </br>
   🌱 &nbsp;I work with reactjs, nextjs, chakra ui, typescript, tailwindcss and more...</br>
