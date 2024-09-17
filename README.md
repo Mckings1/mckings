@@ -3,13 +3,13 @@
 
 <p aligh="left">
   
-  I'm Maryam, a Front End developer that loves buliding responsive and scalable web apps.
+  I'm , a Front End developer that loves buliding responsive and scalable web apps.
   	
   💡 &nbsp;I like to explore new trends and learn new technologies. </br>
   🌱 &nbsp;I work with reactjs, nextjs, chakra ui, typescript, tailwindcss and more...</br>
   🚧 &nbsp;I'm currently working on developing new projects to enhance my learning  ... </br>
   💬 &nbsp;Feel free to reach out to me for collaborations, volunteering or just for some interesting discussion. </br>
-  📫 &nbsp;You can reach me via email at gominamaryam@gmail.com
+  📫 &nbsp;You can reach me via email at 
 
 </p>
 <br>
@@ -35,7 +35,7 @@
  -->
 <h2>Connect with me</h2>
 <span >
-      <a href="https://twitter.com/GominaMaryam" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-     badge&logo=twitter&logoColor=white" /></a> 
+      <a href="https://twitter.com/GominaMaryam" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> 
       <a href="https://www.linkedin.com/in/gomina-maryam" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" /></a> 
     <a href="mailto: gominamaryam@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/-gmail-brown?&style=flat-square&logo=gmail&logoColor=white" /></a>
   </span>
@@ -44,12 +44,12 @@
 <h2>📈 &nbsp;Some Github Stats</h2>
 <span align="left">
 
-![Maryam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=animogm&show_icons=true&hide_border=true&langs_count=10&layout=compact&theme=merko)
+![M's GitHub Stats](https://github-readme-stats.vercel.app/api?username=animogm&show_icons=true&hide_border=true&langs_count=10&layout=compact&theme=merko)
 </span>
 
 <span align="left" >
    
-   ![Maryam's Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=animogm&show_icons=true&hide_border=true&langs_count=10&layout=compact&theme=merko&locale=en)
+   ![M's Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=animogm&show_icons=true&hide_border=true&langs_count=10&layout=compact&theme=merko&locale=en)
 </span>
 
 <span align="left" >
